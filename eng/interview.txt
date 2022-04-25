@@ -1,0 +1,87 @@
+1. Рассказать кратко о своей карьере
+
+Свою профессиональную карьеру я начал очень давно:
+- первым этапом был период обучения с колледже и университете на факультете Информационные технологии
+- затем за несколько лет после окончания университета я сменил различные направления от полиграфического дизайна до
+систменого администрирования
+- но все изменилось когда столкнулся с тестированием
+
+I started my professional career a long time ago:
+- the first stage was the period of study with college and university at the Faculty of Information Technology
+- then, after university graduating, I changed various directions from print design to system administration
+- but everything changed when I faced testing
+
+
+Это область мне очень понравилась и стал развиваться в этом направлении.
+Одним из приятных воспоминаний - это была работа тестировщиком в компании Кьюликс. Я работал в отделе аутсорсинг тестирования
+и за 5 лет вырос до тим-лида по тестированию, прошел международную сертификацию ИСТКьБ, после чего у меня открылись новые
+горизонты и я перешел в сферу банковского программного обеспечения
+
+I really liked this area and began to develop in this direction.
+One of the pleasant memories - it was the work of a tester in the Qulix company.
+I worked in the testing outsourcing department and in 5 years grew to a testing team lead
+
+Но шло время и стремление к своему профессиональному росту сбособствовало увлечение программированием. Я закончил курсы
+фронт-энд в прошлом году и перешел в отдел ДЖС в своей компании
+Сейчас я выполняю задачи и по разработке в отделе ДЖС и по тестированию в отделе КУА, тк мой текущий проект подразумевает
+долгий адаптационный период для новых сотрудников
+
+But as time went on and the desire for professional growth contributed to the passion for programming
+I finished the frontend courses last year and moved to the JS department in my company
+So, now I work as both a tester and a developer.
+
+
+2. С какой сложной задачей сталкивались на проекте и как вы ее решали
+- Что касается тестирования, то одной из интересных задач была реализация автоматизированного тестирования АПИ. Сложность
+заключалась в том, что я работал ручным тестировщиком и практически ничего не знал об автоматизации.
+Но с поставленной задачей я справился и получил хороший отзыв от заказчика и прибавку к зарплате.
+С этого момента я и увлекся программированием, тк автоматизированные скрипты нужно было писать на ДЖС
+
+
+One of the interesting tasks was the implementation of automated API testing
+The difficulty was that I worked as a manual tester and knew practically nothing about automation.
+But I coped with the task and received good feedback from the customer and than a raise in my salary.
+From that moment on, I got carried away with programming, because automated scripts had to be written in JS
+
+- Что касается разработки, то последняя интересная задача которую я решал была - написать бэкенд. Немного предыстории:
+для того чтобы перейти из отдела тестирования в отдел разработки одним из условий было написать приложение - любое на свое
+усмотрение. Но чтобы увеличить шансы я решил написать еще и бэкенд
+
+As for development, the last interesting task that I solved was to write a backend.
+A little background:
+in order to move from the testing department to the development department, one of the conditions was to write an application - any at its discretion.
+But to increase the chances, I decided to write a backend too
+Шt was difficult and very interesting
+
+3. Доводилось ли менторить и проводить интервью
+Да, в текущей компании я выполнял функции ментора, проводил обучения по разным направлениям в области тестирования и
+проводил интервью. Но на текущий момент я полностью сфокусировался на ДЖС разработке и все свое свободного время
+инвестирую туда
+
+Yes, in the current company I served as a mentor, conducted training in various areas in the field of testing
+and also conducted interviews.
+
+
+4. Расскажи о своем последнем проекте и роли на которой ты там был
+Как бы это звучало ни странно но в данный момент у меня 2 проекта
+Первый - медицинское программного обеспечение, где я занимаю роль тестировщика
+Второй - CRM система где я выполняю небольшие задачи в свободное от тестирования время
+Данная ЦРМ система написана на Реакте с ЮАЙ библиотекой Материал UI.
+
+at the moment I have 2 projects:
+The first is medical software, where I take the role of a tester
+The second is a CRM system where I work as a frontend developer
+
+5. На ЦРМ проекте ничего выдающегося я не успел реализовать. А что касается моего собственного проекта. Да, у меня проект
+на котором я шлифую свою знания и применяю разные нововведения, это своего рода тренировочная площадка.
+Здесь в данный момонт я работаю над аутентификацией с использованием ДЖВС токена. Первую реализацию я сделал очень просто -
+генерация токена и отправка его на фронтенд, но сейчас разработываю более сложный и безопасный вариант с использование
+рефреш токена
+
+I didn’t manage to implement anything outstanding on the CRM project.
+As for my own project. Yes, I have a project on which I refine my knowledge and apply various innovations,
+this is a kind of training ground.
+Here at the moment I am working on authentication using a JVS token.
+I made the first implementation very simple - generating a token and sending it to the frontend, but now I am developing
+a more complex and secure option using a refresh token
+
